@@ -1,0 +1,28 @@
+body form .form-control {
+  width: 15rem;
+}
+body form .form_check {
+  width: 27rem;
+  background-color: black;
+}
+body form .active {
+	width: 3rem;
+
+
+}
+body form .position {
+  position: relative;
+}
+body form .absolute {
+  position: absolute;
+  left: 33%;
+}
+body .banner {
+  /* background-color: blueviolet; */
+  border: 1px solid;
+  border-color: black;
+  width: 100%;
+  height: 601px;
+  /* background-image: conic-gradient(#30182c, #382e5f);  */
+  background-image: linear-gradient(#b370bf, #7631b3, rgb(49, 14, 89));
+}
